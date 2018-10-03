@@ -1,5 +1,5 @@
 struct stat {
-  char* player;
+  char player[64];
   int points;
 };
 
