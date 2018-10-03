@@ -1,9 +1,0 @@
-#include "struct.h"
-
-//0-30
-
-struct stat randStruct() {
-  char* players[10] =["Durant", "James", "Anthony", "Curry"];
-  players[0] = "Durant";
-
-}
