@@ -5,3 +5,5 @@ struct stat {
 
 struct stat randStruct();
 void printStruct(struct stat s);
+void modPlayer(struct stat * p);
+void modPoints(struct stat * p, int newPoints);
